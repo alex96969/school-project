@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="im">
+    <file>Фон.jpg</file>
+  </qresource>
+</RCC>
